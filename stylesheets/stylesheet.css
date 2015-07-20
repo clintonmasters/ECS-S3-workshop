@@ -464,7 +464,7 @@ header h1 {
   line-height: 1;
   color: #fff;
   letter-spacing: -1px;
-  margin-left: 128px;
+  margin-left: 132;
 }
 
 header h2 {
@@ -476,7 +476,7 @@ header h2 {
   line-height: 1.3;
   color: #9ddcff;
   letter-spacing: 0;
-  margin-left: 128px;
+  margin-left: 132px;
 }
 
 .inner {
