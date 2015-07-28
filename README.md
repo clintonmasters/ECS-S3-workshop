@@ -4,3 +4,5 @@ Java examples for interacting with EMC ECS and the S3 protocol.  Originally crea
 [Project Home Page](http://clintonmasters.github.io/ECS-S3-workshop/)
 
 [Documentation](https://github.com/clintonmasters/ECS-S3-workshop/wiki)
+
+Use this [guide to get started](https://github.com/clintonmasters/ECS-S3-workshop/wiki/GettingStarted)
